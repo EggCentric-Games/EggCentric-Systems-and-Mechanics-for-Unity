@@ -1,0 +1,20 @@
+{
+    "name": "EggCentric.Stabbing",
+    "rootNamespace": "EggCentric.Stabbing",
+    "references": [
+        "GUID:1f423c5aac8f932459825caadccb79e3",
+        "GUID:8fddfd1810fdf7d48b5d4046e36dc012",
+        "GUID:52e6e3a8ae38ae44bbc6c84df756f4a6",
+        "GUID:10aa19b3ccaebd0448a130b68568b4ad",
+        "GUID:7e3295bb41c5d5d439a28f422500058d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
