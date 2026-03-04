@@ -1,4 +1,4 @@
-using EggCentric.Infrastructure;
+using EggCentric.LifeCycleHandling;
 using EggCentric.Singletons;
 using System.Collections.Generic;
 using UnityEngine;

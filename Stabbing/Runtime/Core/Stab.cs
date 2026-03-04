@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 using EggCentric.Geometry.Intersections;
-using EggCentric.Infrastructure;
+using EggCentric.LifeCycleHandling;
 
 namespace EggCentric.Stabbing
 {

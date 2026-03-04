@@ -1,4 +1,4 @@
-using EggCentric.Infrastructure;
+using EggCentric.LifeCycleHandling;
 using UnityEngine;
 
 namespace EggCentric.Stabbing
