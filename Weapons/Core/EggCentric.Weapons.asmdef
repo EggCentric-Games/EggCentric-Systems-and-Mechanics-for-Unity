@@ -1,0 +1,31 @@
+{
+    "name": "EggCentric.Weapons",
+    "rootNamespace": "",
+    "references": [
+        "GUID:10a7bd465158c8a499b89df0e5f9e690",
+        "GUID:8273d3c34604e1548b460d33aad01ebf",
+        "GUID:0576d2b7fe110e5488ad715cb15ee1e0",
+        "GUID:f5a287e9cc057624cba28acc224e12f0",
+        "GUID:39412b50b0a59cd4abfea6054c700cf6",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9",
+        "GUID:e9dc1b37f62ab84419a30e892ee6a36f",
+        "GUID:95925a822c2d4ca41b86881355127f84",
+        "GUID:94361b13d2ac83e4f9895c89427b8fff",
+        "GUID:55e760018f57ff64a886f0a6ba1f5dd0",
+        "GUID:29799cacad245234f8dc6b9476aa8dad",
+        "GUID:352ee40aa59f4f645b6e74ae58f0486f",
+        "GUID:a33ac7ab8923b3d478e93db30d4906e4",
+        "GUID:f5e4ecd69cf61ff4e818d427907b70db",
+        "GUID:259b2fc61af375b4a9715f7c37e7ca62",
+        "GUID:5d7f8f5e9f0b2e84ca217cd8245efced"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
